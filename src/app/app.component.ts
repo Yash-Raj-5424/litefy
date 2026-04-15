@@ -69,9 +69,16 @@ export class AppComponent implements OnInit {
 
         ]; // always keep the "en" at the end, it's the default language for the website
         this.translate.addLangs(languages);
-        this.translate.setDefaultLang(
-            languages.includes(navigator.language) ? navigator.language : "en"
-        );
+        
+        // Normalize navigator.language to base subtag (e.g., "vi-VN" -> "vi")
+        const browserLanguage = navigator.language.split('-')[0];
+        const defaultLang = languages.includes(navigator.language) 
+            ? navigator.language 
+            : languages.includes(browserLanguage)
+            ? browserLanguage
+            : "en";
+        
+        this.translate.setDefaultLang(defaultLang);
 
         this.auth.setUser(JSON.parse(window.localStorage.getItem("user")));
 
