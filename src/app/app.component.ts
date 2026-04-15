@@ -64,6 +64,7 @@ export class AppComponent implements OnInit {
             "kr",
             "jp",
             "pk",
+            "vi",
             "en",
 
         ]; // always keep the "en" at the end, it's the default language for the website

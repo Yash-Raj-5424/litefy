@@ -1,0 +1,62 @@
+{
+    "direction": "ltr",
+    "FlagCode": "VN",
+    "LanguageName": "Tiếng Việt",
+    "AppName": "Litefy",
+
+    "LoginDescriptionText": "Một ứng dụng Spotify dành cho thiết bị thấp cấp",
+    "LoginText": "Chúng tôi tin rằng bạn không cần một thiết bị siêu cấp để tận hưởng âm nhạc của mình. Chúng tôi tin rằng bạn không cần theo kịp tất cả công nghệ mới để giải trí. Đó là lý do tại sao Litefy tồn tại.",
+    "LoginButtonText": "Đăng nhập với Spotify",
+
+    "SearchPlaceholderText": "Bài hát, album, nghệ sĩ, danh sách phát, chương trình, tập phát ...",
+
+    "MenuHome": "Trang chủ",
+    "MenuSearchText": "Tìm kiếm",
+    "MenuLibraryText": "Thư viện",
+    "MenuKaraokeText": "Karaoke",
+
+    "HomeArtistsText": "Các nghệ sĩ yêu thích của bạn",
+    "HomeMusicsText": "Các bài hát yêu thích của bạn",
+    "HomeAlbumsText": "Album mới",
+    "HomePlaylistsText": "Danh sách phát được đề xuất",
+
+    "ArtistTracksText": "Các bài hát phổ biến nhất",
+    "ArtistAlbumsText": "Album",
+    "ArtistRelatedText": "Nghệ sĩ liên quan",
+
+    "Hello": "Xin chào",
+    "LibraryTracksText": "Bài hát",
+    "LibraryAlbumsText": "Album",
+    "LibraryPlaylistsText": "Danh sách phát",
+
+    "MusicListTracks": "Bài hát",
+    "MusicListTracksPlural": "Bài hát",
+    "MusicListFollowers": "Người theo dõi",
+    "MusicListFollowersPlural": "Người theo dõi",
+    "DescriptionText": "Mô tả",
+
+    "PlayingText": "Đang phát",
+    "PausedText": "Tạm dừng",
+    "NextText": "Bài hát tiếp theo",
+    "PreviousText": "Bài hát trước đó",
+    "ShuffleOnText": "Chế độ xáo trộn BẬT",
+    "ShuffleOffText": "Chế độ xáo trộn TẮT",
+
+    "ExitText": "Thoát",
+    "FollowersText": "Người theo dõi",
+    "FollowersTextPlural": "Người theo dõi",
+    "ProfileText": "Hồ sơ",
+    "SettingsText": "Cài đặt",
+
+    "SearchArtists": "Nghệ sĩ",
+
+    "KaraokeNotFoundText": "Không tìm thấy lời bài hát, nhưng bạn có thể thử tìm kiếm thủ công bằng nút bên dưới.",
+    "KaraokeSearchText": "Tìm kiếm",
+
+    "SettingsPageTitle": "Cài đặt",
+    "SettingsImageText": "Tải hình ảnh (album, nghệ sĩ, danh sách phát, v.v.)",
+
+    "MenuPodcastText": "Podcast",
+    "PodcastsShowsText": "Chương trình",
+    "PodcastsEpisodesText": "Tập phát"
+}
